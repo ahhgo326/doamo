@@ -1,0 +1,26 @@
+afreecahp:
+  alertbox_url: http://afreehp.kr/page/VZiYmKibx8bYmqSVwJY
+  use: true
+discord:
+  use: true
+  webhook_url: https://discord.com/api/webhooks/1193833329959653496/I1eVumrmBECroPYRYkQe-9oOrSGh6Z9a296pQssv3Y_OxKdtkdfI9oa3eJBxowlTFvOO
+shortcut:
+  use: true
+  1000: ctrl+0
+  2000: Ctrl+Shift+2
+system:
+  build: 124.0.6324.0(dev)
+  cycle_time: '1.5'
+  debug: false
+  load_images: false
+  status: stop
+toonation:
+  alertbox_url: https://toon.at/widget/alertbox/763fac625872329b171e6dcf63a5704e
+  use: true
+twip:
+  alertbox_url: https://twip.kr/widgets/alertbox/qPrmqgPGLr
+  use: true
+warudo:
+  action: donation
+  port: 19190
+  use: true

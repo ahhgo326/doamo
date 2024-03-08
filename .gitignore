@@ -1,0 +1,16 @@
+*.spec
+*.exe
+*.pyc
+*.zip
+*.ico
+*.png
+
+log/
+bin/
+build/
+dist/
+logs/
+venv/
+__pycache__/
+
+test.py
